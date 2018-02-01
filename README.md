@@ -1,1 +1,1 @@
-This is a repo for website development.
+This is a repository for website development.

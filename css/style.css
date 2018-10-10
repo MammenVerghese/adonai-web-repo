@@ -2600,6 +2600,15 @@ ul.blog-classic-listing strong.post-title{
 	background:#efefef;
 	border-radius:10px;
 }
+.event-schedule .timeline2{
+	position:absolute;
+	left:28px;
+	top:25px;
+	width:10px;
+	height:80%;
+	background:#efefef;
+	border-radius:10px;
+}
 .event-prog{
 	width:100%;
 	display:block;

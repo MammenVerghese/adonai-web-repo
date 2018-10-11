@@ -15,7 +15,7 @@
                 <ul class="sf-menu">
                     <li><a href="javascript:void(0)">About us</a>
                   		<ul class="dropdown">
-                    		<li><a href="../about.html">Our Story</a></li>
+                    		<li><a href="../Our Story.html">Our Story</a></li>
                     		<li><a href="../our-beliefs.html">Our Beliefs</a></li>
                     		<li><a href="../Victor&Annie.html">Victor & Annie</a></li>
                     		<li><a href="../staff.html">Our Staff</a></li>
